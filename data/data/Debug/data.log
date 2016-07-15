@@ -1,6 +1,0 @@
-﻿  Source.cpp
-c:\users\student\desktop\andyh\data\data\source.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-c:\users\student\desktop\andyh\data\data\source.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-c:\users\student\desktop\andyh\data\data\source.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  data.vcxproj -> C:\Users\student\Desktop\AndyH\data\Debug\data.exe
-  data.vcxproj -> C:\Users\student\Desktop\AndyH\data\Debug\data.pdb (Partial PDB)
