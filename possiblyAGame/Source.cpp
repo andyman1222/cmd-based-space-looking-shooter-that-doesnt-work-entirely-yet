@@ -198,6 +198,7 @@ void newMob() {
 }
 
 //generate, move mobs
+//note: sudo random doesnt random
 int yValueOutput = 0;
 int xValueOutput = 0;
 bool willGenerateMob = 0;
